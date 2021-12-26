@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921736859863",
+    "project_id": "crypto-mart-fcc7c",
+    "storage_bucket": "crypto-mart-fcc7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921736859863:android:8736633c665f6d60b02092",
+        "android_client_info": {
+          "package_name": "com.vedantkarale.crypto_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921736859863-f7sdk5d6gc2o4vgcem6qstf43iep8eur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHeH-1eS9uW0abQwaT_1uku3TZiICsWX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921736859863-f7sdk5d6gc2o4vgcem6qstf43iep8eur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
