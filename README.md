@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![crypto mart](https://user-images.githubusercontent.com/90595461/205460723-741f16f4-4074-48e5-b5f2-99621184c7bb.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
